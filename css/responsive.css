@@ -1,0 +1,1292 @@
+#pull {
+	display: none;
+}
+
+@media only screen and (min-width: 1380px) and (max-width: 1520px) {
+.steps_class {
+    position: relative;
+    width: 225px;
+    margin: 0 110px 120px 0;
+}	
+.steps_class.classes1.class_last {
+    margin-right: 0 !important;
+}
+.steps_class.classes1.class_last::before{left:138px;}
+img.banner_img.banner2Img {
+    margin-top: 50px;
+}
+.feas_desc_r {
+    float: right;
+    width: 85%;
+}
+
+	
+}
+
+
+@media only screen and (min-width: 1160px) and (max-width: 1330px) {
+ul.main-nav>li>a{padding: 15px 16px !important;}	
+li.top-level-link:last-child a {
+    padding: 10px 25px !important;
+}
+.header .logo img.img-responsive {
+    width: 12.5rem !important;
+}
+.carousel-caption h3{font-size:5.4rem !important; line-height:64px !important}
+.carousel-caption p{font-size:2.2rem !important;}
+	.steps_class {
+    width: 200px !important;
+    margin: 0 90px 120px 0 !important;
+	min-height:218px!important;
+}
+.steps_class.classes1.class_last {
+	margin-right:0 !important;
+}
+.steps_class.classes1::before {
+    left: -11px;
+}
+.steps_class.classes1.class_last::before{left:128px !important;}
+.steps_class.classes1.class-opp::before{left:170px !important;}
+.blogs_containers.footer_containers{width:100%;}
+img.banner_img.banner1Img {
+    width: 31rem;
+    left: 63%;
+    top: 0px;
+    margin-top: 65px;
+}
+div#myCarousel {
+    padding-top: 60px;
+    height: 650px;
+}
+img.banner_img.banner2Img {
+    margin-top: 55px;
+    z-index: 11;
+}
+img.banner_img.banner3Img {
+    width: 45rem;
+}
+.steps_class h4 {
+    font-weight:bold;
+    font-size: 1.7rem;
+line-height: 24px;}
+.feas_desc_r {
+    float: right;
+    width: 85%;
+}
+.edu_list{height:380px;}
+.container-fluid.crackExam.founded_container.abt_lex p{width:75%;}
+
+	
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+	.header {
+		height: auto;
+	}
+	.navbar-header {
+		float: none;
+	}
+	.header .container {
+    width: 100%; padding:0;
+}
+	div#myCarousel {
+		padding-top: 90px;
+		height: 420px;
+	}
+	.carousel-indicators {
+		left: 49%;
+		bottom: 50px;
+		display: none;
+	}
+	.header .logo img.img-responsive {
+    width: 11rem;
+}
+
+	.navbar-default .navbar-nav li a {
+		font-size: 13px;
+		padding: 0px 7px;
+	}
+	.container-fluid.header .col-sm-3 {
+    position: relative;
+    margin-left: -20px;
+    width: 22%;
+}
+.container-fluid.header .col-sm-9 {
+    padding: 0;
+    width: 80%;
+    padding-top: 2px;
+}
+	.navbar-default .navbar-brand {
+		margin-left: auto !important;
+		float: none;
+		display: block;
+	}
+	.navbar-brand img {
+		display: block;
+		text-align: center;
+		margin: 0 auto;
+	}
+	
+	.carousel-caption {
+		bottom: 0 !important;
+	}
+	.carousel-caption h3 {
+		font-size: 36px;
+		margin-bottom: 15px;
+		line-height: 40px;
+	}
+	.carousel-caption p {
+		font-size: 16px;
+		margin-bottom: 15px;
+	}
+	ul.main-nav>li>a {
+		padding: 10px 10px !important;
+		font-size: 13px !important;
+	}
+	img.banner_img.banner3Img {
+    width: 30rem;
+    left: 56%;
+    top: 0;
+    margin-top: 0px;
+}img.banner_img.banner1Img {
+    width: 19rem;
+    left: 63%;
+    margin-top: 19px;
+}
+	.edu_list {
+		width: 48% !important;
+		height: 300px;
+		margin: 0 2% 7px 0;
+	}
+	.container-fluid.crackExam {
+		height: auto;
+	}
+	.steps_class {
+    width: 44%;
+    left: 0%;
+    margin: 0 40px 40px 0;
+    height: auto;
+}
+.steps_class.classes1::before{display:none;}
+	img.path_img {
+		left: 33%;
+	}
+	
+	.steps_class.classes2 {
+		left: 29%;
+	}
+	
+	.exam_list {
+		width: 32.33%;
+		margin: 0 1% 20px 0;
+	}
+	.mentors_list.ment-list1 {
+		width: 49%;
+	}
+	p.text-info.lead.adjust2 {
+		font-size: 20px;
+	}
+	.testimonials a.left.carousel-control {
+		left: 77%;
+	}
+	.latest_blogs a.learn_more_btn {
+		right: 40px;top: -80px;
+	}
+	.blogs_right .blog_listing {
+		height: auto;
+		padding: 0 0px;
+	}
+	.container.subscribe_newsletter {
+		padding: 50px 7rem 60px;
+	}
+	.blogs_containers.footer_containers div {
+    margin-bottom: 2em;
+   }
+   .social_links{margin-top:40px;}
+	.blogs_containers.copyright_cont {
+		padding-top: 20px;
+	}
+	.col-md-6.copy_left p {
+		display: block;
+	}
+	.col-md-6.copy_left {
+		text-align: center;
+	}
+	.col-md-6.copy_right {
+		text-align: center;
+	}
+	.sidenav ul li a {
+		font-size: 16px;
+		line-height: 22px;
+		padding: 10px 7px 10px 10px;
+		margin: 0 0 5px 0;
+	}
+	.text-wrapper {
+		width: 60%;
+	}
+	ul.pattern_left li strong {
+		font-size: 21px;
+	}
+	.pattern_div h4 {
+		padding: 19px 10px;
+		font-size: 24px;
+		line-height: 30px;
+	}
+	.fees_box {
+		width: 47%;
+		margin: 30px 8px 30px 0;
+	}
+	table.table.table-layout.exam_table {
+		width: 100%;
+	}
+	img.ilets-about {
+		width: 100%;
+		position: relative;
+		left: 0%;
+	}
+	/* contact us */
+	.container.contact_cont {
+		padding: 1em;
+		z-index: 1;
+		height: auto;
+		width: 99%;
+	}
+	img.contact-bgs {
+		top: 90px;
+		width: 100%;
+		height: 270px;
+	}
+	/* about Us */
+	.container-fluid.crackExam.founded_container, .container-fluid.crackExam.venture_container {
+    padding: 0 1em 4em;
+   }
+}
+
+@media only screen and (min-width: 959px) and (max-width: 1024px) {
+	.pro_text {
+		float: right;
+		width: 73%;
+	}
+	.pro_text h4 {
+		margin: 50px 20px 15px 0;
+		font-size: 16px;
+	}
+	.srvc_text {
+		float: right;
+		width: 76%;
+	}
+	ul.main-nav>li>div.sub-menu-block {
+		width: 75% !important;
+	}
+}
+
+@media only screen and (min-width: 966px) and (max-width: 1000px) {}
+
+@media only screen and (max-width: 767px) {}
+
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.header {
+		position: fixed;
+		height: 70px;
+	}
+	.logo img {
+		width: 155px !important;
+	}
+	.header .container {
+		width: 100%;
+	}
+	.header .container .col-sm-3 {
+		padding: 0;
+	}
+	div#myCarousel {
+		padding-top: 70px;
+		height: auto;
+	}
+	ol.carousel-indicators.carou1 {
+		display: none;
+	}
+	.carousel-caption p {
+		display: none;
+	}
+	.carousel-caption {
+		bottom: 2% !important;
+	}
+	.carousel-caption h3 {
+		font-size: 20px;
+		line-height: 22px;
+		margin-bottom: -17px;
+	}
+	.crackExam h3 {
+		font-size: 24px !important;
+		line-height: 30px !important;
+		margin-bottom: 5px;
+		margin-top: 35px;
+	}
+	.crackExam p {
+		font-size: 18px;
+		line-height: 24px;
+		margin: 0 0 40px 0;
+	}
+	.edu_list p {
+    font-size: 1.55rem !important;
+    line-height: 20px !important;
+    text-align: center !important;
+    color: #111111;
+    margin: 0 0 0 0;
+    display: block;
+}
+	.container-fluid.crackExam {
+		height: auto;
+	}
+	.edu_list {
+		width: 100% !important;
+		height: auto;
+		padding: 15px 10px 25px;
+		float: left;
+		margin: 0 0 5% 0;
+	}
+	a.learn_more_btn {
+		background: #00A689;
+		padding: 15px 22px;
+		display: inline-block;
+		margin: 30px 0 0px 0;
+	}
+	a.learn_more_btn strong {
+		width: 34px;
+		height: 32px;
+	}
+	img.arrow-right {
+		left: 7px;
+		width: 46px;
+	}
+	img.banner_img {
+		top: 0;margin-top:0;
+	}
+	img.banner_img.banner3Img {
+    width: 13rem;
+    left: 60%;
+	margin-top:0;
+    }
+	img.banner_img.banner1Img {
+    width: 10rem;
+    left: 66%;margin-top:0;
+   }
+	.steps_class {
+		width: 100%;
+		padding: 10px 20px;
+		left: 0%;
+		top: 30px;
+		margin: 0 0 20px 0
+	}
+	
+	.steps_class h4 strong {
+		font-size: 72px;
+	}
+	
+	.steps_class.classes2 {
+		left: 5%;
+		top: 40px;
+	}
+	a.view_all.connect_now{
+		top:60px;
+	}
+	img.path_img {
+		left: 13%;
+	}
+	.exam_list {
+		width: 48.33%;
+		margin: 0 1% 5% 0;
+	}
+	.exam_list h5 br {
+		display: none;
+	}
+	.exam_list h5 {
+		font-size: 18px;
+	}
+	.mentors_list.ment-list1 {
+		width: 100%;
+		height: auto;
+		float: none;
+		margin-right: 0%;
+		margin-bottom: 5%;
+	}
+	.view_all {
+		right: 34%;
+		top: -26px;
+	}
+	p.text-info.lead.adjust2 {
+		font-size: 18px;
+		line-height: 28px;
+	}
+	.adjust1 {
+		padding: 1em;
+	}
+	.testimonials a.left.carousel-control {
+		left: 54%;
+	}
+	.container-fluid.crackExam.knowMentors h3 {
+		margin-bottom: 30px;
+	}
+	.blog_listing{height:auto;}
+	.latest_blogs a.learn_more_btn {
+		top: -25px;
+	}
+	.blogs_right .blog_listing {
+		height: auto;
+	}
+	.col-md-6.blogs_rSmall {
+		padding: 0;
+	}
+	.container.subscribe_newsletter {
+		padding: 30px 1.5rem 30px;
+		position: relative;
+	}
+	.social_links {
+		text-align: left;
+		margin: 40px 0;
+	}
+	.container-fluid.copyright_footer {
+		height: auto;
+	}
+	.col-md-6.copy_left {
+		text-align: center;
+	}
+	.col-md-6.copy_right {
+		text-align: center;
+	}
+	.blogs_containers.copyright_cont {
+		padding: 30px 15px 30px;
+	}
+	.copy_right ul li a {
+		font-size: 13px;
+	}
+	li.top-level-link:last-child a {
+		border-radius: 0 !important;
+	}
+	.footer_middle ul li a,
+	.footer_right span,
+	.footer_right span a {
+		font-size: 15px;
+	}
+	.col-md-2.footer_middle {
+		margin-bottom: 2em;
+	}
+	/* Ielts Page */
+	img.ilets-about {
+		width: 100%;
+		position: relative;
+		left: 0%;
+	}
+	.col-md-6.abt_right p,
+	#text1 {
+		font-size: 18px;
+		line-height: 30px;
+	}
+	.sidenav {
+		position: relative;
+		top: 0px;
+		left: 0px;
+		margin-top: 0px;
+		float: none;
+		min-width: auto;
+	}
+	.text-wrapper {
+		margin: 0px auto 30px;
+		float: none;
+		width: 100%;
+	}
+	ul.pattern_left li {
+		padding: 1em;
+		height: 150px;
+	}
+	ul.pattern_left li span,
+	ul.pattern_left li strong {
+		font-size: 19px;
+	}
+	.pattern_div h4 {
+		padding: 20px 15px;
+		font-size: 21px;
+		margin: -10px 0 0 0;
+		line-height: 28px;
+	}
+	span.numbs {
+		display: block;
+		margin-right: 1.5em;
+		margin-bottom: 10px;
+	}
+	fees_box {
+		width: 100%;
+	}
+	table.table.table-layout.exam_table {
+		width: 100%;
+	}
+	.exam_table tbody tr td {
+		font-size: 16px;
+	}
+	.exams_about p {
+    padding: 0 0em;}
+	/* feature page */
+	img.mobile_imgs {
+		width: 100%;
+	}
+	.feas_desc_r {
+		float: right;
+		width: 75%;
+	}
+	.feas_desc_r h4 {
+		font-size: 21px;
+	}
+	.feature_top_cont h3 {
+		font-size: 36px;
+		line-height: 45px;
+	}
+	.container-fluid.feature_top_cont {
+		padding-bottom: 0;
+	}
+	.container-fluid.feature_top_cont .education_services {
+		margin-bottom: 1em;
+	}
+	/*   contact Us  */
+	.container-fluid.contact_us_map {
+		position: relative;
+		padding: 72px 0px;
+	}
+	img.contact-bgs {
+		position: relative;
+		width: 100%;
+		top:0;
+	}
+	.container-fluid.contact_us_map h2 {
+		font-size: 50px;
+	}
+	.container-fluid.contact_us_map p {
+		font-size: 18px;
+		line-height: 24px;
+		padding: 0 25px;
+	}
+	.container.contact_cont {
+		padding: 1em;
+		height: auto;
+		width: 92%;
+	}
+	.form_right ul {
+		margin-top: 3em;
+	}
+	.form_right ul li {
+		width: 100%;
+		float: none;
+	}
+	iframe {
+		height: auto;
+	}
+	/* about Us */
+	.container-fluid.crackExam.founded_container, .container-fluid.crackExam.venture_container {
+    padding: 0 1em 4em;
+   }
+   .container-fluid.crackExam.founded_container h3, .container-fluid.crackExam.venture_container h3 {
+    font-size: 34px;
+    line-height: 42px;
+   }
+   .container-fluid.crackExam.founded_container p, .container-fluid.crackExam.venture_container p {
+    font-size: 21px;
+   line-height: 36px;
+   }
+   .container-fluid.exams_about.about_us_div {
+    padding: 70px 0 0px;
+    margin: 0 0 0 0;
+}
+/*  new css  */
+img.dropimg {
+    display: none;
+}
+.sub-menu-block.sm-feature::before, .sub-menu-block.sm-services::before{display:none;}
+.sub-menu-block {
+    padding: 0 0px;
+}
+.sub-menu-block h4 {
+    color: #05b7a6;
+}
+.steps_class.classes1::before{display:none;}
+
+
+
+}
+
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+	.header {
+		position: fixed;
+		height: 70px;
+	}
+	.logo img {
+		width: 155px !important;
+	}
+	.header .container {
+		width: 100%;
+	}
+	.header .container .col-sm-3 {
+		padding: 0;
+	}
+	div#myCarousel {
+		padding-top: 70px;
+		height: auto;
+	}
+	ol.carousel-indicators.carou1 {
+		display: none;
+	}
+	.carousel-caption p {
+		display: none;
+	}
+	.carousel-caption {
+		bottom: 2% !important;
+	}
+	.carousel-caption h3 {
+		font-size: 20px;
+		line-height: 22px;
+		margin-bottom: -17px;
+	}
+	.crackExam h3 {
+		font-size: 24px !important;
+		line-height: 30px !important;
+		margin-bottom: 5px;
+		margin-top: 35px;
+	}
+	.crackExam p {
+		font-size: 18px;
+		line-height: 24px;
+		margin: 0 0 40px 0;
+	}
+	.edu_list p {
+    font-size: 1.55rem !important;
+    line-height: 20px !important;
+    text-align: center !important;
+    color: #111111;
+    margin: 0 0 0 0;
+    display: block;
+}
+	.container-fluid.crackExam {
+		height: auto;
+	}
+	.edu_list {
+		width: 100% !important;
+		height: auto;
+		padding: 15px 10px 25px;
+		float: left;
+		margin: 0 0 5% 0;
+	}
+	a.learn_more_btn {
+		background: #00A689;
+		padding: 15px 22px;
+		display: inline-block;
+		margin: 30px 0 0px 0;
+	}
+	a.learn_more_btn strong {
+		width: 34px;
+		height: 32px;
+	}
+	img.arrow-right {
+		left: 7px;
+		width: 46px;
+	}
+	img.banner_img {
+		top: 0;margin-top:0;
+	}
+	img.banner_img.banner3Img {
+    width: 13rem;
+    left: 60%;
+	margin-top:0;
+    }
+	img.banner_img.banner1Img {
+    width: 10rem;
+    left: 66%;margin-top:0;
+   }
+	.steps_class {
+		width: 100%;
+		padding: 10px 20px;
+		left: 0%;
+		top: 30px;
+		margin: 0 0 20px 0
+	}
+	
+	.steps_class h4 strong {
+		font-size: 72px;
+	}
+	
+	.steps_class.classes2 {
+		left: 5%;
+		top: 40px;
+	}
+	a.view_all.connect_now{
+		top:60px;
+	}
+	img.path_img {
+		left: 13%;
+	}
+	.exam_list {
+		width: 48.33%;
+		margin: 0 1% 5% 0;
+	}
+	.exam_list h5 br {
+		display: none;
+	}
+	.exam_list h5 {
+		font-size: 18px;
+	}
+	.mentors_list.ment-list1 {
+		width: 100%;
+		height: auto;
+		float: none;
+		margin-right: 0%;
+		margin-bottom: 5%;
+	}
+	.view_all {
+		right: 34%;
+		top: -26px;
+	}
+	p.text-info.lead.adjust2 {
+		font-size: 18px;
+		line-height: 28px;
+	}
+	.adjust1 {
+		padding: 1em;
+	}
+	.testimonials a.left.carousel-control {
+		left: 54%;
+	}
+	.container-fluid.crackExam.knowMentors h3 {
+		margin-bottom: 30px;
+	}
+	.blog_listing{height:auto;}
+	.latest_blogs a.learn_more_btn {
+		top: -25px;
+	}
+	.blogs_right .blog_listing {
+		height: auto;
+	}
+	.col-md-6.blogs_rSmall {
+		padding: 0;
+	}
+	.container.subscribe_newsletter {
+		padding: 30px 1.5rem 30px;
+		position: relative;
+	}
+	.social_links {
+		text-align: left;
+		margin: 40px 0;
+	}
+	.container-fluid.copyright_footer {
+		height: auto;
+	}
+	.col-md-6.copy_left {
+		text-align: center;
+	}
+	.col-md-6.copy_right {
+		text-align: center;
+	}
+	.blogs_containers.copyright_cont {
+		padding: 30px 15px 30px;
+	}
+	.copy_right ul li a {
+		font-size: 13px;
+	}
+	li.top-level-link:last-child a {
+		border-radius: 0 !important;
+	}
+	.footer_middle ul li a,
+	.footer_right span,
+	.footer_right span a {
+		font-size: 15px;
+	}
+	.col-md-2.footer_middle {
+		margin-bottom: 2em;
+	}
+	/* Ielts Page */
+	img.ilets-about {
+		width: 100%;
+		position: relative;
+		left: 0%;
+	}
+	.col-md-6.abt_right p,
+	#text1 {
+		font-size: 18px;
+		line-height: 30px;
+	}
+	.sidenav {
+		position: relative;
+		top: 0px;
+		left: 0px;
+		margin-top: 0px;
+		float: none;
+		min-width: auto;
+	}
+	.text-wrapper {
+		margin: 0px auto 30px;
+		float: none;
+		width: 100%;
+	}
+	ul.pattern_left li {
+		padding: 1em;
+		height: 150px;
+	}
+	ul.pattern_left li span,
+	ul.pattern_left li strong {
+		font-size: 19px;
+	}
+	.pattern_div h4 {
+		padding: 20px 15px;
+		font-size: 21px;
+		margin: -10px 0 0 0;
+		line-height: 28px;
+	}
+	span.numbs {
+		display: block;
+		margin-right: 1.5em;
+		margin-bottom: 10px;
+	}
+	fees_box {
+		width: 100%;
+	}
+	table.table.table-layout.exam_table {
+		width: 100%;
+	}
+	.exam_table tbody tr td {
+		font-size: 16px;
+	}
+	.exams_about p {
+    padding: 0 0em;}
+	/* feature page */
+	img.mobile_imgs {
+		width: 100%;
+	}
+	.feas_desc_r {
+		float: right;
+		width: 75%;
+	}
+	.feas_desc_r h4 {
+		font-size: 21px;
+	}
+	.feature_top_cont h3 {
+		font-size: 36px;
+		line-height: 45px;
+	}
+	.container-fluid.feature_top_cont {
+		padding-bottom: 0;
+	}
+	.container-fluid.feature_top_cont .education_services {
+		margin-bottom: 1em;
+	}
+	/*   contact Us  */
+	.container-fluid.contact_us_map {
+		position: relative;
+		padding: 72px 0px;
+	}
+	img.contact-bgs {
+		position: relative;
+		width: 100%;
+		top:0;
+	}
+	.container-fluid.contact_us_map h2 {
+		font-size: 50px;
+	}
+	.container-fluid.contact_us_map p {
+		font-size: 18px;
+		line-height: 24px;
+		padding: 0 25px;
+	}
+	.container.contact_cont {
+		padding: 1em;
+		height: auto;
+		width: 92%;
+	}
+	.form_right ul {
+		margin-top: 3em;
+	}
+	.form_right ul li {
+		width: 100%;
+		float: none;
+	}
+	iframe {
+		height: auto;
+	}
+	/* about Us */
+	.container-fluid.crackExam.founded_container, .container-fluid.crackExam.venture_container {
+    padding: 0 1em 4em;
+   }
+   .container-fluid.crackExam.founded_container h3, .container-fluid.crackExam.venture_container h3 {
+    font-size: 34px;
+    line-height: 42px;
+   }
+   .container-fluid.crackExam.founded_container p, .container-fluid.crackExam.venture_container p {
+    font-size: 21px;
+   line-height: 36px;
+   }
+   .container-fluid.exams_about.about_us_div {
+    padding: 70px 0 0px;
+    margin: 0 0 0 0;
+}
+/*  new css  */
+img.dropimg {
+    display: none;
+}
+.sub-menu-block.sm-feature::before, .sub-menu-block.sm-services::before{display:none;}
+.sub-menu-block {
+    padding: 0 0px;
+}
+.sub-menu-block h4 {
+    color: #05b7a6;
+}
+.steps_class.classes1::before{display:none;}
+}
+
+@media only screen and (max-width: 479px) {
+	.header {
+		position: fixed;
+		height: 70px;
+	}
+	.logo img {
+		width: 155px !important;
+	}
+	.header .container {
+		width: 100%;
+	}
+	.header .container .col-sm-3 {
+		padding: 0;
+	}
+	div#myCarousel {
+		padding-top: 70px;
+		height: auto;
+	}
+	ol.carousel-indicators.carou1 {
+		display: none;
+	}
+	.carousel-caption p {
+		display: none;
+	}
+	.carousel-caption {
+		bottom: 2% !important;
+	}
+	.carousel-caption h3 {
+		font-size: 20px;
+		line-height: 22px;
+		margin-bottom: -17px;
+	}
+	.heading1 {
+		font-size: 24px !important;
+		line-height: 30px !important;
+		margin-bottom: 5px;
+		margin-top: 35px;
+	}
+	
+	.crackExam h3 {
+		font-size: 24px !important;
+		line-height: 30px !important;
+		margin-bottom: 5px;
+		margin-top: 35px;
+	}
+	.crackExam p {
+		font-size: 18px;
+		line-height: 22px;
+		margin: 0 0 40px 0;
+	}
+	.edu_list p {
+    font-size: 1.55rem !important;
+    line-height: 20px !important;
+    text-align: center !important;
+    color: #111111;
+    margin: 0 0 0 0;
+    display: block;
+}
+	.container-fluid.crackExam {
+		height: auto;
+	}
+	.edu_list {
+		width: 100% !important;
+		height: auto;
+		padding: 15px 10px 25px;
+		float: left;
+		margin: 0 0 5% 0;
+	}
+	a.learn_more_btn {
+		background: #00A689;
+		padding: 15px 22px;
+		display: inline-block;
+		margin: 30px 0 0px 0;
+	}
+	a.learn_more_btn strong {
+		width: 34px;
+		height: 32px;
+	}
+	img.arrow-right {
+		left: 7px;
+		width: 46px;
+	}
+	img.banner_img {
+		top: 0;margin-top:0;
+	}
+	img.banner_img.banner3Img {
+    width: 13rem;
+    left: 60%;
+	margin-top:0;
+    }
+	img.banner_img.banner1Img {
+    width: 10rem;
+    left: 66%;margin-top:0;
+   }
+	.steps_class {
+		width: 100%;
+		padding: 10px 20px;
+		left: 0%;
+		top: 30px;
+		margin: 0 0 20px 0
+	}
+	
+	.steps_class h4 strong {
+		font-size: 72px;
+	}
+	
+	.steps_class.classes2 {
+		left: 5%;
+		top: 40px;
+	}
+	a.view_all.connect_now{
+		top:60px;
+	}
+	img.path_img {
+		left: 13%;
+	}
+	.exam_list {
+		width: 48.33%;
+		margin: 0 1% 5% 0;
+	}
+	.exam_list h5 br {
+		display: none;
+	}
+	.exam_list h5 {
+		font-size: 18px;
+	}
+	.mentors_list.ment-list1 {
+		width: 100%;
+		height: auto;
+		float: none;
+		margin-right: 0%;
+		margin-bottom: 5%;
+	}
+	.view_all {
+		right: 34%;
+		top: -26px;
+	}
+	p.text-info.lead.adjust2 {
+		font-size: 18px;
+		line-height: 28px;
+	}
+	.adjust1 {
+		padding: 1em;
+	}
+	.testimonials a.left.carousel-control {
+		left: 54%;
+	}
+	.container-fluid.crackExam.knowMentors h3 {
+		margin-bottom: 30px;
+	}
+	.blog_listing{height:auto;}
+	.latest_blogs a.learn_more_btn {
+		top: -25px;
+	}
+	.blogs_right .blog_listing {
+		height: auto;
+	}
+	.col-md-6.blogs_rSmall {
+		padding: 0;
+	}
+	.container.subscribe_newsletter {
+		padding: 30px 1.5rem 30px;
+		position: relative;
+	}
+	.social_links {
+		text-align: left;
+		margin: 40px 0;
+	}
+	.container-fluid.copyright_footer {
+		height: auto;
+	}
+	.col-md-6.copy_left {
+		text-align: center;
+	}
+	.col-md-6.copy_right {
+		text-align: center;
+	}
+	.blogs_containers.copyright_cont {
+		padding: 30px 15px 30px;
+	}
+	.copy_right ul li a {
+		font-size: 13px;
+	}
+	li.top-level-link:last-child a {
+		border-radius: 0 !important;
+	}
+	.footer_middle ul li a,
+	.footer_right span,
+	.footer_right span a {
+		font-size: 15px;
+	}
+	.col-md-2.footer_middle {
+		margin-bottom: 2em;
+	}
+	/* Ielts Page */
+	img.ilets-about {
+		width: 100%;
+		position: relative;
+		left: 0%;
+	}
+	.col-md-6.abt_right p,
+	#text1 {
+		font-size: 18px;
+		line-height: 30px;
+	}
+	.sidenav {
+		position: relative;
+		top: 0px;
+		left: 0px;
+		margin-top: 0px;
+		float: none;
+		min-width: auto;
+	}
+	.text-wrapper {
+		margin: 0px auto 30px;
+		float: none;
+		width: 100%;
+	}
+	ul.pattern_left li {
+		padding: 1em;
+		height: 150px;
+	}
+	ul.pattern_left li span,
+	ul.pattern_left li strong {
+		font-size: 19px;
+	}
+	.pattern_div h4 {
+		padding: 20px 15px;
+		font-size: 21px;
+		margin: -10px 0 0 0;
+		line-height: 28px;
+	}
+	span.numbs {
+		display: block;
+		margin-right: 1.5em;
+		margin-bottom: 10px;
+	}
+	fees_box {
+		width: 100%;
+	}
+	table.table.table-layout.exam_table {
+		width: 100%;
+	}
+	.exam_table tbody tr td {
+		font-size: 16px;
+	}
+	.exams_about p {
+    padding: 0 0em;}
+	/* feature page */
+	img.mobile_imgs {
+		width: 100%;
+	}
+	.feas_desc_r {
+		float: right;
+		width: 75%;
+	}
+	.feas_desc_r h4 {
+		font-size: 21px;
+	}
+	.feature_top_cont h3 {
+		font-size: 36px;
+		line-height: 45px;
+	}
+	.container-fluid.feature_top_cont {
+		padding-bottom: 0;
+	}
+	.container-fluid.feature_top_cont .education_services {
+		margin-bottom: 1em;
+	}
+	/*   contact Us  */
+	.container-fluid.contact_us_map {
+		position: relative;
+		padding: 72px 0px;
+	}
+	img.contact-bgs {
+		position: relative;
+		width: 100%;
+		top:0;
+	}
+	.container-fluid.contact_us_map h2 {
+		font-size: 50px;
+	}
+	.container-fluid.contact_us_map p {
+		font-size: 18px;
+		line-height: 24px;
+		padding: 0 25px;
+	}
+	.container.contact_cont {
+		padding: 1em;
+		height: auto;
+		width: 92%;
+	}
+	.form_right ul {
+		margin-top: 3em;
+	}
+	.form_right ul li {
+		width: 100%;
+		float: none;
+	}
+	iframe {
+		height: auto;
+	}
+	/* about Us */
+	.container-fluid.crackExam.founded_container, .container-fluid.crackExam.venture_container {
+    padding: 0 1em 4em;
+   }
+   .container-fluid.crackExam.founded_container h3, .container-fluid.crackExam.venture_container h3 {
+    font-size: 34px;
+    line-height: 42px;
+   }
+   .container-fluid.crackExam.founded_container p, .container-fluid.crackExam.venture_container p {
+    font-size: 21px;
+   line-height: 36px;
+   }
+   .container-fluid.exams_about.about_us_div {
+    padding: 70px 0 0px;
+    margin: 0 0 0 0;
+}
+/*  new css  */
+img.dropimg {
+    display: none;
+}
+.sub-menu-block.sm-feature::before, .sub-menu-block.sm-services::before{display:none;}
+.sub-menu-block {
+    padding: 0 0px;
+}
+.sub-menu-block h4 {
+    color: #05b7a6;
+}
+.steps_class.classes1::before{display:none;}
+
+}
+
+@media only screen and (max-width: 320px) {}
+
+@media only screen and (max-width: 1024px) {
+	.row {
+		margin-right: 0 !important;
+		margin-left: 0 !important;
+	}
+	.navbar-toggle {
+		margin-top: 30px !important;
+	}
+	.nav.navbar-nav {
+		margin: 0 0 0 0px !important;
+	}
+	.navbar-default .navbar-nav>li>a {
+		margin: 5px 5px !important;
+	}
+}
